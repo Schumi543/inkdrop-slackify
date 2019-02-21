@@ -1,5 +1,5 @@
 {
   "body": {
-    "ctrl-alt-o": "inkdrop-slackify:toggle"
+    "ctrl-alt-s": "inkdrop-slackify:slackify"
   }
 }

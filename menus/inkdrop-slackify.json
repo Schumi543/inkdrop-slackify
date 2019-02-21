@@ -2,8 +2,8 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle inkdrop-slackify",
-        "command": "inkdrop-slackify:toggle"
+        "label": "Slackify",
+        "command": "inkdrop-slackify:slackify"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "inkdrop-slackify",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "inkdrop-slackify:toggle"
+              "label": "Slackify",
+              "command": "inkdrop-slackify:slackify"
             }
           ]
         }
