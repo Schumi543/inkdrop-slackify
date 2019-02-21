@@ -3,7 +3,7 @@
     ".CodeMirror": [
       {
         "label": "Slackify",
-        "command": "inkdrop-slackify:slackify"
+        "command": "slackify"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Slackify",
-              "command": "inkdrop-slackify:slackify"
+              "command": "slackify"
             }
           ]
         }

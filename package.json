@@ -1,9 +1,11 @@
 {
   "name": "inkdrop-slackify",
-  "main": "./lib/inkdrop-slackify",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "main": "./lib/slackify",
+  "version": "0.0.2",
+  "description": "Convert markdown to slack format",
   "keywords": [
+    "slack",
+    "markdown"
   ],
   "repository": "https://github.com/inkdropapp/inkdrop-slackify",
   "license": "MIT",
