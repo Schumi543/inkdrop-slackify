@@ -7,7 +7,7 @@
     "slack",
     "markdown"
   ],
-  "repository": "https://github.com/inkdropapp/inkdrop-slackify",
+  "repository": "https://github.com/Schumi543/inkdrop-slackify",
   "license": "MIT",
   "engines": {
     "inkdrop": ">=3.7.3 <4.0.0"
