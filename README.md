@@ -5,7 +5,7 @@ Convert markdown to Slack format and send to clipboard.
 ## Install
 
 ```sh
-ipm install install slackify
+ipm install inkdrop-slackify
 ```
 
 ## Usage
