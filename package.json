@@ -10,7 +10,7 @@
   "repository": "https://github.com/Schumi543/inkdrop-slackify",
   "license": "MIT",
   "engines": {
-    "inkdrop": ">=3.7.3 <4.0.0"
+    "inkdrop": "^4.x"
   },
   "dependencies": {
     "remark-parse": "^5.0.0",
