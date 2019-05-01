@@ -26,4 +26,10 @@ With this plugin, it yields:
   ● ​_baz_​
 ```
 
+## Version history
+- v1.1.0
+  - Support Inkdrop v4.x 
+- v1.0.0 
+  - Initial Release
+
 
