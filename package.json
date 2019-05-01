@@ -1,7 +1,7 @@
 {
   "name": "inkdrop-slackify",
   "main": "./lib/slackify",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Convert markdown to slack format",
   "keywords": [
     "slack",
